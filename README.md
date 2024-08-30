@@ -1,4 +1,5 @@
-# Tableau_VIZ
+# Tableau_Viszualization
+
 Tableau Visualization Case Study
 
 Tableau Data Visualization Projects
@@ -27,5 +28,7 @@ Key Features
 •	Interactive Dashboards: Engaging and user-friendly interfaces that allow for dynamic exploration of data.
 •	Data Storytelling: Each project includes a narrative that guides users through the insights and key findings.
 •	In-depth analysis: Utilized Tableau’s advanced features to deliver comprehensive analysis and clear visual representations of complex data.
-Insights and Applications
+
+Inference and Applications
+
 These dashboards are designed to provide actionable insights and support strategic decision-making. From tracking pandemic trends to analyzing investment flows and understanding customer orders, the visualizations help in making data-driven decisions and effectively communicating findings.
