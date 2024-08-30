@@ -1,4 +1,4 @@
-# Tableau_Viszualization
+# Tableau_Visualization
 
 Tableau Visualization Case Study
 
